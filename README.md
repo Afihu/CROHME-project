@@ -1,2 +1,2 @@
 # CROHME dataset
- Created as for a course's assigment
+ Created for the assignment of Introduciton to Data Science and AI
